@@ -1,6 +1,6 @@
 ![Screenshot 2024-10-29 223706](https://github.com/user-attachments/assets/8d7658c8-bef0-4a32-8ac3-586922be3ec0)
 ![Screenshot 2024-10-29 223725](https://github.com/user-attachments/assets/4b9f8455-e7ce-4e2e-919f-6216a9f51593)
-# flutter_application_1
+# Flutter101_Tugas2
 
 A new Flutter project.
 
